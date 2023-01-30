@@ -1,4 +1,7 @@
-@import url(https://candyfonts.com/font/splatfont-2.htm);
+@font-face {
+    font-family: "Splatfont 2";
+    src: url("./icon/Splatfont\ 2.ttf") format("truetype");
+}
 
 body {
     height: 100vh;
